@@ -30,7 +30,7 @@ Finally open your browser and view the application on http://localhost:3000
 ![Screenshot](./demo/sc-editpage.png?raw=true "Screenshot")
 ![Screenshot](./demo/sc-addproduct.png?raw=true "Screenshot")
 ![Screenshot](./demo/sc-inputdata.png?raw=true "Screenshot")
-![Screenshot](./demo/sc-saveddata?raw=true "Screenshot")
+![Screenshot](./demo/sc-saveddata.png?raw=true "Screenshot")
 
 ## Optional Plugin for Development
 1. **[Disable safe write](http://webpack.github.io/docs/webpack-dev-server.html#working-with-editors-ides-supporting-safe-write)** to assure hot reloading works properly.
