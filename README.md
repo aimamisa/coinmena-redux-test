@@ -1,0 +1,1 @@
+# coinmena-redux-test
